@@ -1,12 +1,11 @@
 body {
-  background-color: #383838;
+  background: #000000;
 }
 
-#title {
+.sideBar-left {
   color: #ffffff;
-  text-align: center;
 }
 
-#container-form {
-  posit
+#nome {
+  color: #ffffff;
 }
