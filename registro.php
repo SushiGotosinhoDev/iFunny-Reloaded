@@ -1,21 +1,20 @@
 <html>
   <head>
-    <title>PUUUTA</title>
+    <title>PHP Test</title>
 
     <link rel="stylesheet" href="index.css">
-    </head>
-
+  </head>
   <body>
     <script src="index.js">
     </script>
 
-    <h1 id="title">No Fap está chegando! você será um campeão? registre-se aqui!</h1>
-    <br>
-    <form action="mainPage.php" method="GET">
-     <div id="container-form">
-      <input type="text" placeholder="Username" name="user">
-     </div>
-    </form>
+   <div class="sideBar-left">
+      <a href="profile.php"><button>Profile</button></a>
+      <br>
+      <button>Settings</button>
+      <br>
+    <button>Notifications</button>
+    </div> 
 
- </body>
+  </body>
 </html>
